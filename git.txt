@@ -34,3 +34,5 @@ git diff --staged
 git checkout filenumber file name
 
 git clone url
+
+git push -u origin master

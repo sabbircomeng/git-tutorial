@@ -1,0 +1,36 @@
+git --version
+
+git init
+
+git status           //check file info change
+
+git add filename
+
+git config --global user.email "mail address enter here"
+
+git config --global user.name "user name enter here"
+
+git commit
+
+[press i and write some text what you want then press esc]
+
+[:x]
+
+git log  // check number of commit
+
+
+git log --online
+
+git add . //Multi file extract
+
+git commit -m "we have change another line"
+
+git show
+
+git diff
+
+git diff --staged
+
+git checkout filenumber file name
+
+git clone url
